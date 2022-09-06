@@ -1,1 +1,1 @@
-a script that sets the mode of the file hello the same as olleh
+he group owner and all other users
